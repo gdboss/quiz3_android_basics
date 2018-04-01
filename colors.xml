@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7CB342</color>
+    <color name="colorAccent">#1A237E</color>
+    <color name="colorPrimaryDark">#1A237E</color>
+    <color name="text_color_primary">#ffffff</color>
+    <color name="text_field">#1A237E</color>
+    <color name="submit">#1A237E</color>
+</resources>

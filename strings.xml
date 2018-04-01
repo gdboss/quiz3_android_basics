@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GDquiz</string>
+    <string name = "q1title_radio">He is considered the Father of Western Medicine:</string>
+    <string name = "q1aWrong">Aristotle</string>
+    <string name = "q1bCorrect">Hippocrates</string>
+    <string name = "q1cWrong">Pericles</string>
+    <string name = "q2title_radio">Crisis, in Hippocratic Medicine entails:</string>
+    <string name = "q2aCorrect">Progression of disease</string>
+    <string name = "q2bWrong">Relapse</string>
+    <string name = "q2cWrong">Critical Days</string>
+    <string name = "q3Title_check">He categorized illnesses as (choose multiple):</string>
+    <string name = "q3acorrect">Acute</string>
+    <string name = "q3bcorrect">Chronic</string>
+    <string name = "q3ccorrect">Endemic</string>
+    <string name = "q3dcorrect">Pandemic</string>
+    <string name = "q4title">Oath of ethics of medical practice:</string>
+    <string name = "oath">Medical graduates recite this</string>
+    <string name = "q5Title">Aristotle called him: </string>
+    <string name = "q5awrong">Old</string>
+    <string name = "q5bwrong">Insane</string>
+    <string name = "q5ccorrect">Country doctor</string>
+    <string name = "q5dwrong">Ludicrous</string>
+    <string name="submit_button">SUBMIT</string>
+</resources>
